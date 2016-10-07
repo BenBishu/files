@@ -1,10 +1,8 @@
 # Ol Chiki typeface "Guru Gomke", input tools and other documentations
 This project contains:
-* [Guru Gomke typeface family] (https://github.com/GuruGomke/files/tree/master/Font%20files), a typeface family, and a [font manual] (https://github.com/GuruGomke/Font-family/blob/master/GuruGomke-booklet.pdf)
+* [Guru Gomke typeface family] (https://github.com/GuruGomke/files/tree/master/Font%20files), a typeface family, and a [font manual] (https://github.com/GuruGomke/files/blob/master/GuruGomke-booklet.pdf) that shares some basic information about the font
 * Input methods; [Sarjom baha] (https://www.mediawiki.org/wiki/Help:Extension:UniversalLanguageSelector/Input_methods/sat-Sarjom_baha), phonetic input layout, and [InScript] (https://www.mediawiki.org/wiki/Help:Extension:UniversalLanguageSelector/Input_methods/sat-InScript2) layout
-
-## Input tools
-This page provides information about typing in Ol Chiki after you are done with [installing the font] (https://github.com/GuruGomke/Font-family).
+* Input tools; [a cross browser input tool that works for Linux, macOS and Windows] (https://github.com/GuruGomke/files/tree/master/Input-tools/Browser%20based%20offline%20tool), and [a Windows-based installable tool] (https://github.com/GuruGomke/files/tree/master/Input-tools/Installable%20offline%20input%20tool)
 
 ## Browser-based offline input tool
 This tool can be used without installation. The tool works <i>only</i> on Mozilla Firefox browser across all operating systems -- Linux, Apple's macOS, and Microsoft Windows. If you are looking for an input that can be installed in your computer check [this] (https://github.com/GuruGomke/Input-tools/tree/master/Offline%20input%20tool). ☛ [download Firefox from here] (http://firefox.com/) if not installed already.
