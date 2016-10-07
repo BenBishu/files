@@ -1,6 +1,6 @@
 # Ol Chiki typeface "Guru Gomke", input tools and other documentations
 This project contains:
-* [Guru Gomke typeface family] (https://github.com/GuruGomke/files/tree/master/Font%20files), a typeface family licensed under Open Font License (OFL) 1.0, and a [font manual] (https://github.com/GuruGomke/Font-family/blob/master/GuruGomke-booklet.pdf)
+* [Guru Gomke typeface family] (https://github.com/GuruGomke/files/tree/master/Font%20files), a typeface family, and a [font manual] (https://github.com/GuruGomke/Font-family/blob/master/GuruGomke-booklet.pdf)
 * Input methods; [Sarjom baha] (https://www.mediawiki.org/wiki/Help:Extension:UniversalLanguageSelector/Input_methods/sat-Sarjom_baha), phonetic input layout, and [InScript] (https://www.mediawiki.org/wiki/Help:Extension:UniversalLanguageSelector/Input_methods/sat-InScript2) layout
 
 ## Input tools
@@ -25,13 +25,14 @@ This tool can be installed once in your computer and can be used thereafter to t
  6. Press the Hotkey to switch to Ol Chiki and press it again to switch back to English. You can also seamlessly switch between multiple layouts.
 
 ## List of layouts
-![Sarjom baha, a phonetic input method] (https://github.com/GuruGomke/Input-tools/blob/master/Ol_Chiki_Sarjom_baha_input_method.png)
+![Sarjom baha, a phonetic input method] (https://github.com/GuruGomke/files/blob/master/Input-tools/Ol_Chiki_Sarjom_baha_input_method.png)
 ☛ [Keyboard layout in details] (https://www.mediawiki.org/wiki/Help:Extension:UniversalLanguageSelector/Input_methods/sat-Sarjom_baha)
 
-![InScript2 input method] (https://github.com/GuruGomke/Input-tools/blob/master/Ol_Chiki_InScript_keyboard_layout.png)
+![InScript2 input method] (https://github.com/GuruGomke/files/blob/master/Input-tools/Ol_Chiki_InScript_keyboard_layout.png)
 ☛ [Keyboard layout in details] (https://www.mediawiki.org/wiki/Help:Extension:UniversalLanguageSelector/Input_methods/sat-InScript2)
 
 ## Attribution:
-* The software and the source code, that are licensed under CC1.0, were created by Jnanaranjan Sahu and Nasim Ali under the ambit of the Project Ol Chiki, commissioned by the Centre for Internet and Society's Access to Knowledge (CIS-A2K)
+* The typeface and some of the font-related documentations were created by [Pooja Saxena] (https://github.com/anexasajoop), and the typeface is licensed under Open Font License (OFL) 1.0
+* The software and the source code, that are licensed under CC1.0, were created by [Jnanaranjan Sahu] (https://github.com/gyan111/) and [Nasim Ali] (https://github.com/coldbreeze16) under the ambit of the Project Ol Chiki, commissioned by the Centre for Internet and Society's Access to Knowledge (CIS-A2K)
 * Project coordinated and maintained by [Subhashish Panigrahi] (http://www.github.com/psubhashish). All the project documentations here are released under CC-BY-SA 4.0
 * <i>Some of the documentations are adapted from the documentation created by [Nasim Ali] (https://github.com/coldbreeze16/Kunji-Binyasa)</i>
