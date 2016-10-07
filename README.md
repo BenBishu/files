@@ -1,6 +1,6 @@
 # Ol Chiki typeface "Guru Gomke" and input tools
 This project contains:
-* [Guru Gomke typeface family] (https://github.com/GuruGomke/files/tree/master/Font%20files), a typeface family, and a [font manual] (https://github.com/GuruGomke/files/blob/master/GuruGomke-booklet.pdf) that shares some basic information about the font
+* [Guru Gomke] (https://github.com/GuruGomke/files/tree/master/Font%20files), a typeface family, and a [font manual] (https://github.com/GuruGomke/files/blob/master/GuruGomke-booklet.pdf) that shares some basic information about the font
 * Input methods; [Sarjom baha] (https://www.mediawiki.org/wiki/Help:Extension:UniversalLanguageSelector/Input_methods/sat-Sarjom_baha), phonetic input layout, and [InScript] (https://www.mediawiki.org/wiki/Help:Extension:UniversalLanguageSelector/Input_methods/sat-InScript2) layout
 * Input tools; [a cross browser input tool that works for Linux, macOS and Windows] (https://github.com/GuruGomke/files/tree/master/Input-tools/Browser%20based%20offline%20tool), and [a Windows-based installable tool] (https://github.com/GuruGomke/files/tree/master/Input-tools/Installable%20offline%20input%20tool)
 
