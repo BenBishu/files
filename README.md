@@ -30,7 +30,7 @@ This tool can be installed once in your computer and can be used thereafter to t
 ☛ [Keyboard layout in details] (https://www.mediawiki.org/wiki/Help:Extension:UniversalLanguageSelector/Input_methods/sat-InScript2)
 
 ## Attribution:
-* The typeface and some of the font-related documentations were created by [Pooja Saxena] (https://github.com/anexasajoop), and the typeface is licensed under Open Font License (OFL) 1.0
+* The typeface and some of the font-related documentations were created by [Pooja Saxena] (https://github.com/anexasajoop), and the typeface is licensed under Open Font License (OFL) 1.1
 * The software and the source code, that are licensed under CC1.0, were created by [Jnanaranjan Sahu] (https://github.com/gyan111/) and [Nasim Ali] (https://github.com/coldbreeze16) under the ambit of the Project Ol Chiki, commissioned by the Centre for Internet and Society's Access to Knowledge (CIS-A2K)
 * Typeface reviewers: Prof. Damayanti Beshra, Malati Murmu and Mangat Murmu, Kuanra Murmu, and Raj Narayan Marndi
 * Project coordinated and maintained by [Subhashish Panigrahi] (http://www.github.com/psubhashish). All the project documentations here are released under CC1.0
