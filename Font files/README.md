@@ -1,4 +1,4 @@
-Guru Gomke is a libre [Ol Chiki] (https://en.wikipedia.org/wiki/Ol_Chiki_alphabet) font family (regular, bold and italic) commissioned by the Access to Knowledge Programme (CIS-A2K)[(details here)](https://meta.wikimedia.org/wiki/CIS-A2K/Work_plan_July_2015_-_June_2016/Santali_Wikipedia), and designed by [Pooja Saxena](http://poojasaxena.in). 
+Guru Gomke is a libre [Ol Chiki](https://en.wikipedia.org/wiki/Ol_Chiki_alphabet) font family (regular, bold and italic) commissioned by the Access to Knowledge Programme (CIS-A2K)[(details here)](https://meta.wikimedia.org/wiki/CIS-A2K/Work_plan_July_2015_-_June_2016/Santali_Wikipedia), and designed by [Pooja Saxena](http://poojasaxena.in). 
 
 **Ol Chiki**:
 
