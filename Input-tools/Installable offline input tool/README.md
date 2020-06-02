@@ -1,6 +1,6 @@
 # Installable Offline input tool for Windows
 This installable tool works only for Microsoft Windows based computers. Once installed it can be used to type in Ol Chiki offline in Unicode. Please see the procedure below to learn how to use the tool. P.S. <i>(If you are looking for a cross platform tool that works for Linux, macOS and Windows, check [this] (https://github.com/GuruGomke/files/tree/master/Input-tools/Browser%20based%20offline%20tool))</i>
- 1. First download KeyMagic for your platform from [here] (https://code.google.com/p/keymagic/downloads/list).
+ 1. First download KeyMagic for your platform from [here] (https://keymagic.net/downloads/).
  2. Now browse to the folder of the Keybord layout you want and download the appropriate <b>km2</b> file. Please see below for a list.
  3. Intall KeyMagic and then launch it.
  4. Click on Add on the right side browse to where you downloaded the km2 file and select it.
