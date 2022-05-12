@@ -1,4 +1,4 @@
-﻿/*
+/*
 @NAME = 'Ol_Chiki_Phonetic'
 @DESCRIPTION = 'Sarjom baha phonetic layout for Ol Chiki (Santhali)'
 @ICON = ''
@@ -12,7 +12,7 @@
 
 
 'Q' => 'ᱻ'
-'W' => 'ᱶ'
+'W' => 'ᱣ'
 'E' => 'ᱮ'
 'R' => 'ᱨ'
 'T' => 'ᱛ'
@@ -38,7 +38,7 @@
 'N' => 'ᱸ'
 'M' => 'ᱬ'
 'q' => 'ᱧ'
-'w' => 'ᱶ'
+'w' => 'ᱣ'
 'e' => 'ᱮ'
 'r' => 'ᱨ'
 't' => 'ᱴ'
