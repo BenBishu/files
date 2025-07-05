@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/53941456.svg)](https://zenodo.org/badge/latestdoi/53941456)
-
+#2nd edit done by Ben
 # Ol Chiki typeface "Guru Gomke" and input tools
 This project contains:
 * [Guru Gomke](https://github.com/GuruGomke/files/tree/master/Font%20files), a typeface family, and a [font manual](https://github.com/GuruGomke/files/blob/master/GuruGomke-booklet.pdf) that shares some basic information about the font [(download the font family here)](https://github.com/GuruGomke/files/raw/master/Font%20files/download-fonts.zip)
